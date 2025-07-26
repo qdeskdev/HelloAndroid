@@ -45,7 +45,7 @@ dependencies {
 
     implementation project(":myutils")
 
-    implementation 'com.github.qdeskdev:Android-Library:1.0'
+    implementation 'com.github.qdeskdev:Android-Library:1.0.2'
 
 
 }
