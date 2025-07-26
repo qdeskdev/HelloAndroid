@@ -15,6 +15,7 @@ import androidx.core.view.ViewCompat;
 import androidx.core.view.WindowInsetsCompat;
 
 import com.qdesk.myutils.Logger;
+import com.qdesk.toasty.Toaster;
 import com.squareup.picasso.Callback;
 import com.squareup.picasso.Picasso;
 
@@ -36,6 +37,8 @@ public class MainActivity extends AppCompatActivity {
 
 
         Logger.log("Hello from My Java Logger!");
+
+        Toaster.simpleToast(this,"Hello this is Android Library by qdeskdev");
 
 
         img = findViewById(R.id.img);
