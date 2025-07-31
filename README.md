@@ -333,14 +333,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-## 🏷️ Version History
-
-| Version | Release Date | Changes |
-|---------|-------------|---------|
-| 1.0.0 | 2025-07-25 | Initial release with Logger and Toaster components |
-
----
-
 <div align="center">
   <p>Made with ❤️ by <a href="https://github.com/qdeskdev">QDeskDev</a></p>
   <p>⭐ Star this repository if it helped you!</p>
