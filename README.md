@@ -1,4 +1,4 @@
-# 📜 HelloAndroid Library
+# 📜 HelloAndroid Logger Library
 
 [![JitPack](https://jitpack.io/v/qdeskdev/HelloAndroid.svg)](https://jitpack.io/#qdeskdev/HelloAndroid)
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
