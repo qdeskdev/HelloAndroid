@@ -337,7 +337,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 | Version | Release Date | Changes |
 |---------|-------------|---------|
-| 1.0.0 | 2024-XX-XX | Initial release with Logger and Toaster components |
+| 1.0.0 | 2025-07-25 | Initial release with Logger and Toaster components |
 
 ---
 
