@@ -336,4 +336,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 <div align="center">
   <p>Made with ❤️ by <a href="https://github.com/qdeskdev">QDeskDev</a></p>
   <p>⭐ Star this repository if it helped you!</p>
+      <p>Happy Coding! 🚀</p>
 </div>
