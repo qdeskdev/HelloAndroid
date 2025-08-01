@@ -39,12 +39,10 @@ allprojects {
 Or if you're using **Gradle 7.0+** with `settings.gradle`:
 
 ```gradle
-dependencyResolutionManagement {
     repositories {
         mavenCentral()
         maven { url 'https://jitpack.io' }
     }
-}
 ```
 
 ### Step 2: Add Dependency
