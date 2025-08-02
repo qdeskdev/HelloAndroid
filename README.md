@@ -63,7 +63,7 @@ dependencies {
 
 The Toaster component provides beautiful, styled toast messages with icons and colors:
 
-```java
+```java 
 import com.qdesk.toasty.Toaster;
 
 public class MainActivity extends AppCompatActivity {
@@ -251,7 +251,7 @@ public class UserAuthManager {
 }
 ```
 
-### 🔒 Security Considerations
+### 🔒 Security Considerations 
 
 - Never log sensitive data (passwords, tokens, personal info)
 - Use appropriate log levels for different environments
