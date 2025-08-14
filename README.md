@@ -290,7 +290,7 @@ public void onSuccess() {
 
 - **Minimum SDK**: API 21 (Android 5.0)
 - **Target SDK**: Latest Android version
-- **Languages**: Kotlin, Java
+- **Languages**:Java,Kotlin
 - **Dependencies**: Minimal Android framework dependencies
 
 ---
