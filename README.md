@@ -183,7 +183,7 @@ public class ImageLoader {
 | `Toaster.success()` | Success | ✅ Checkmark | Green |
 | `Toaster.error()` | Error | ❌ Error | Red |
 | `Toaster.warning()` | Warning | ⚠️ Warning | Orange |
-| `Toaster.info()` | Info | ℹ️ Info | Blue |
+| `Toaster.info()` | Info | ℹ️ Info | Blue 
 
 ---
 
